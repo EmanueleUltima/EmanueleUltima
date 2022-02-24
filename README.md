@@ -8,6 +8,8 @@
 EmanueleUltima/EmanueleUltima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+-----BEGIN PGP PRIVATE KEY BLOCK-----
+
 lIYEYhdugRYJKwYBBAHaRw8BAQdA1io2Wwd8/F63dY366GN9m2h0AzTplfc/LzBB
 elA7Jyb+BwMCGG+mqpiC6PzHuZIYhzVsjGs0WrQhxoHH9i+9Mg0kq2/iAU+NAC5P
 Mt21XCldz+F1KkzoNjXxwjnhWLhsaMvLx0Xy+lAyGVPtnQTnLDlpLLQIRW1hbnVl
@@ -20,3 +22,4 @@ ZKzHzA7Fg63BA0I3zdtc8uCVvgsDAQgHAAD/QCua42AADWjo/l1rPX6I/Yz+m8uL
 boECGwwFCQPCXa8ACgkQQpo4jTu4QIIy1wD9Hnn52etOMwsP46WufjQdT6A1gPpi
 SQUZEiEWCMFPajcA/i1bssCHFGLfRxH742R4+T8DT7rSY5bCUouEyPcB1Q4M
 =AMah
+-----END PGP PRIVATE KEY BLOCK-----
